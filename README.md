@@ -1,2 +1,2 @@
 # RepoRemotoConREADME
-Este es un repositorio remoto ccon README
+Este es un repositorio remoto con README
