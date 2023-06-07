@@ -1,2 +1,2 @@
 # RepoRemotoConREADME
-Este es el repositorio remoto creado para la clase 3 de GIT
+Este es un repositorio remoto ccon README
